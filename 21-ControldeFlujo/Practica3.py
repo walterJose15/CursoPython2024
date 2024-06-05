@@ -10,4 +10,13 @@ if altura >= 120:
   elif edad >= 20:
     print("pagar $12")
 else:
-  print("Lo siento tu no puedes subir ala montana rusa")
+  #print("Lo siento tu no puedes subir ala montana rusa")
+
+
+
+  nombre = "Walter"
+  print (nombre)
+  if nombre == "Walter":
+    print ("la si militud es Correcta")
+  elif ():
+    print ("Error")
